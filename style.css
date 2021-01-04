@@ -1,0 +1,13 @@
+h1 {
+    position: absolute;
+    margin-left:35%;
+    margin-top: 20%;
+}
+
+p {
+    color: orange;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 25%;
+    font-size: 30px;
+}
